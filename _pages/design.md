@@ -1,12 +1,12 @@
 ---
 title: "Design"
-permalink: /scicomm/
+permalink: /design/
 author_profile: true
 ---
 
-I am a scientist with formal training in graphic design, and my illustrative work translates complex scientific ideas into clear, engaging graphics. This gallery includes logos developed for software programs as well as visual materials from research and outreach projects over the years.
+I am a scientist with formal training in graphic design. My illustrative work aims to translate complex scientific ideas and pathways into clear, engaging graphics. This gallery includes logos developed for software programs as well as visual materials from research and outreach projects over the years.
 
-**Tools**: Adobe Creative Suite, Canva, Affinity, BioRender, ggplot2 (R package).
+**My Design Tools**: Adobe Creative Suite, Affinity, Canva, BioRender, ggplot2 (R package)
 
 If you would like to collaborate, please reach out [via email](https://swi1.github.io/smgwilson/contact/).
 
