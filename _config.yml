@@ -27,9 +27,9 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 permalink: /:title/
 timezone: America/Los_Angeles
-feed:
-  show: false
-
+atom_feed:
+  hide: true
+  
 include:
   - _pages
 
