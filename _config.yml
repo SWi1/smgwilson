@@ -13,12 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Stephanie M.G. Wilson"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Dr. Stephanie Wilson is a nutrition scientist interested in chronic disease prevention by investigating the impact of plant-based dietary strategies and the role of the gut microbiome.
 github_username: SWi1
 minimal_mistakes_skin: sunrise
 search: true
@@ -69,9 +66,9 @@ author:
       url: "https://github.com/SWi1"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/stephanie-mg-wilson"
+      url: "https://www.linkedin.com/in/stephanie-mg-wilson"
     - label: "ORCID"
-      icon: "https://cdn.simpleicons.org/orcid/00A14F" # official ORCID green
+      icon: "fas fa-fw fa-id-badge" # official ORCID green
       url: "https://orcid.org/0000-0002-4200-1752"
 
 footer:
@@ -81,9 +78,9 @@ footer:
       url: "https://github.com/SWi1"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/stephanie-mg-wilson"
+      url: "https://www.linkedin.com/in/stephanie-mg-wilson"
     - label: "ORCID"
-      icon: "https://cdn.simpleicons.org/orcid/00A14F" # official ORCID green
+      icon: "fas fa-fw fa-id-badge" # official ORCID green
       url: "https://orcid.org/0000-0002-4200-1752"
 
 defaults:
