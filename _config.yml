@@ -57,11 +57,8 @@ plugins:
 author:
   name   : "Stephanie M.G. Wilson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Stephanie Wilson is a nutrition scientist."
+  bio    : "Nutrition Scientist | Science Communicator | Changemaker"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/SWi1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SWi1"
@@ -85,17 +82,6 @@ footer:
       url: "https://orcid.org/0000-0002-4200-1752"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -103,10 +89,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
