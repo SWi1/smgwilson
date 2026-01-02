@@ -1,11 +1,9 @@
 main:
-  - title: "CV"
+  - title: "Stephanie M.G. Wilson Curriculum Vitae"
     url: /cv/
-  - title: "Presentations"
+  - title: "Conference Presentations"
     url: /presentations/
   - title: "Science Communication"
     url: /scicomm/
-  - title: "About"
-    url: /about/
   - title: "Contact"
     url: /contact/    

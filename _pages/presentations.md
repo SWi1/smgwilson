@@ -1,10 +1,8 @@
 ---
-title: "Presentations"
+title: "Conference Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-
-# Conference Presentations 
 
 - [Presenting Author](#presenting-author)
 - [Co-Authored Presentations](#co-authored-presentations)
@@ -39,7 +37,7 @@ author_profile: true
   - Chamberlin, M.L., Sather, B., Cooper, G., __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Impact of Acute Lentil Intake on Postprandial Bile Acids and Triglycerides in Adults with Elevated Metabolic Risk. Poster Presentation, ASN NUTRITION 2024. Chicago, IL.
   - Lee, L.M., __Wilson, S.M.G.__, Wolfe, T.M., Walk, S.T., Yeoman, C.J., Miles, M.P. Impact of Fecal Microbial Transplant Donor Inflammatory Phenotype on Tissue Inflammation in Humanized Mouse Models After a High-Fat Diet. Poster Presentation, ASN NUTRITION 2024. Chicago, IL.
 
- #### 2023 
+#### 2023 
   - Chamberlin, M., __Wilson, S.M.G__, and Miles, M.P. Impact of a 12-Week Lentil Dietary Intervention on Inflammation in a Metabollically At-Risk Population. Poster presentation, ASN NUTRITION 2023, Boston, MA.
   - Chamberlin, M., Peterson, E., Lee, L.,  __Wilson, S.M.G__, and Miles, M.P. Anthropometric Predictors Of The Postprandial Triglyceride Response In A Metabolically At-risk Cohort. Poster presentation, 2023 ACSM Annual Meeting, Denver, CO.
   - Kropatsch, K., Chamberlin, M., __Wilson, S.M.G__, Spears, M., and Miles, M.P. Anthropometric Determinants Of HOMA-IR In A Metabolically At-risk Population. Poster presentation, 2023 ACSM Annual Meeting, Denver, CO.

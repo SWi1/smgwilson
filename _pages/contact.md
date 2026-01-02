@@ -4,10 +4,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-
-<h2>Contact Me</h2>
-
-<p>Fill out the form below to send me a message.</p>
+<p>Fill out the form below to get in touch.</p>
 
 <style>
   form {

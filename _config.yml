@@ -20,6 +20,8 @@ repository: SWi1/smgwilson
 github_username: SWi1
 minimal_mistakes_skin: sunrise
 search: true
+url: "https://swi1.github.io/"
+baseurl: "/smgwilson"   # set to your repository name
 
 # Build settings
 markdown: kramdown
@@ -50,14 +52,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
   name   : "Stephanie M.G. Wilson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Nutrition Scientist | Science Communicator | Changemaker"
+  bio    : "Nutrition Scientist, Science Communicator, Changemaker"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
