@@ -19,19 +19,25 @@ description: >- # this means to ignore newlines until "baseurl:"
 repository: SWi1/smgwilson
 github_username: SWi1
 minimal_mistakes_skin: sunrise
-search: true
 url: "https://swi1.github.io/"
 baseurl: "/smgwilson"   # set to your repository name
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 timezone: America/Los_Angeles
 
 include:
   - _pages
+
+# Disable blog features
+show_posts: false      # should hide recent posts in some layouts
+collections:
+  posts:
+    output: false      # prevents Jekyll from generating posts
+paginate: 0            # disables pagination
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -47,10 +53,8 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -68,6 +72,9 @@ author:
     - label: "ORCID"
       icon: "fas fa-fw fa-id-badge" # official ORCID green
       url: "https://orcid.org/0000-0002-4200-1752"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-id-badge" # official ORCID green
+      url: "https://scholar.google.com/citations?user=L1uAXl8AAAAJ&hl=en"
 
 footer:
   links:

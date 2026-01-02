@@ -2,10 +2,8 @@
 title: "Design"
 permalink: /scicomm/
 author_profile: true
-hide_title: true 
 ---
 
-# Science Communication
 I am a scientist with formal training in graphic design, and my illustrative work translates complex scientific ideas into clear, engaging graphics. This gallery includes logos developed for software programs as well as visual materials from research and outreach projects over the years.
 
 **Tools**: Adobe Creative Suite, Canva, Affinity, BioRender, ggplot2 (R package).

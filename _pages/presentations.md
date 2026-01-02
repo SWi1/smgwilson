@@ -5,7 +5,6 @@ author_profile: true
 hide_title: true 
 ---
 
-# Conference Presentations
 - [Presenting Author](#presenting-author)
 - [Co-Authored Presentations](#co-authored-presentations)
 - [Mentee Presentations](#mentee-presentations)
