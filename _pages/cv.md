@@ -91,7 +91,7 @@ Principal Investigator: Dr. Mary P. Miles
 
 ### Recent Conference Presentations
 
-Full list of 1st author presentations [here](https://swi1.github.io/SMG.Wilson/presentations/) and co-authored presentations [here](https://github.com/SWi1/SMG.Wilson/blob/main/ConferencePresentations_Coauthor.md).
+Full list of presentations [here](https://swi1.github.io/smgwilson/presentations/).
 
 #### International
 
@@ -158,4 +158,4 @@ Full list of 1st author presentations [here](https://swi1.github.io/SMG.Wilson/p
 
 -   Surveys and Assessments: REDCap; Qualtrics; ASA24, ACT 24, & DHQ III (National Cancer Institute)
 -   Data Analysis and Visualization: RStudio/R, Python
--   Science Communication, Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat), Canva, Biorender
+-   Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat), Canva, Affinity, Biorender
