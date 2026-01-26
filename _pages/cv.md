@@ -62,7 +62,8 @@ Principal Investigator: Dr. Mary P. Miles
 #### Journal Articles (Submitted)
 
 -  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** From Diet to Molecules: Application of Large Language Models for Mapping Dietary Data to Food Databases. (*In Review*).
-- **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. (*Submitted*)
+- **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. (*In Review*)
+- Spears, M.L., Chamberlin, M.L, Cooper, G., Sather, B., **Wilson, S.M.G.**, Bothner, B., Miles, M.P. Metabolic Syndrome Distinguished by Fecal Metabolites: A Cross-Sectional Study. (*Submitted*)
 
 #### Other Publications
 
@@ -100,6 +101,10 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 -   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation, 2024 National Nutrient Databank Conference. Ottawa, Canada.
 
 #### National
+-   **Wilson, S.M.G.** Applying AI and Advanced Computational Tools to Nutrition and Gut Microbiome Research. Nutrition Obesity Research Center. University of Washington. (*Scheduled 2/25/26*)
+
+-   **Wilson, S.M.G.** From Mechanisms to Outcomes: How Prebiotics and Probiotics Can Support Health. Cardiovascular and Well-Being Dietetic Practice Group Symposium (Virtual). Academy of Nutrition and Dietetics. (*Scheduled 2/10/26*)
+
 -   **Wilson, S.M.G.**, Chamberlin, M.L., Walk, S.T., Yeoman, C.J., Miles, M.P. Consumption of Whole Green Lentils Alters Gut Microbial Composition in Metabolically At-Risk Adults. Oral Session (Nutritional Microbiology), ASN NUTRITION 2025. Orlando, FL, USA.
 
 -   **Wilson, S.M.G.**, Oliver, A., Alkan, Z., Patil, B., Stephensen, C.B., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. Oral Session (Postdoctoral Award Competition) and Poster Theater Flash Session (Dietary Bioactive Components), ASN  NUTRITION 2025. Orlando, FL, USA.
@@ -110,7 +115,9 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 -   **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) and Poster Session (Dietary Bioactive Components), ASN NUTRITION 2023. Boston, MA, USA.
 
--   **Wilson, S.M.**, Vella, C.A., and Miles, M.P. Impact of Moderate-to-Vigorous Physical Activity and Visceral Adiposity on Postprandial Triglycerides in Metabolically At-Risk Adults. Thematic poster presentation, 2022 ACSM Annual Meeting. San Diego, CA, USA.
+#### Outreach
+-   **Wilson, S.M.G.**, Chamberlin, M.L. Pulses as metabolic leverage: Insights into how eating lentils can improve health. Pulse Potential Webinar (Virtual). Northern Crops Institute. (Scheduled 2/4/26)
+
 
 ### Teaching
 
@@ -122,8 +129,9 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 #### Mentorship
 
-\*Mentee [National Conference on Undergraduate Research](https://www.cur.org/) presentation titles listed [here](https://github.com/SWi1/SMG.Wilson/blob/main/ConferencePresentations_Coauthor.md).
+\*Mentee [National Conference on Undergraduate Research](https://www.cur.org/) presentation titles listed [here](https://swi1.github.io/smgwilson/presentations/).
 
+-   2026: Athena Aragon (PhD)
 -   2021 - 2022: Morgan Chamberlin (PhD), Emily Peterson (MS), Katie Logan (BS), Katy Kropatsch (BS)\*, Amanda Anderson (BS)\*, Jessica Kudelski (BS)\*, Jayme Dyc (BS)\*, Mackenzie Winters (BS)\*
 -   2020 - 2021: Hunter Baum (MS), Kaitlyn Weinheimer (BS)\*, Anna Kristenson (BS), Claire Turner (BS), Rachel Nyquist (BS), Sofia Whitefields (BS)\*
 -   2019 - 2020: Ian Breuner (BS)\*, Kirsten Pfannmuller (BS)\*, Gia Sorini (BS)\*, Bailey Veitenheimer (BS)\*
@@ -132,14 +140,14 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 ### Leadership and Service
 #### Reviewer
--   July 2025 - **Present**: Board of Editors Member, *Journal of the Academy of Nutrition and Dietetics*
+-   July 2025 - Present: Board of Editors Member, *Journal of the Academy of Nutrition and Dietetics*
 -   Nov 2024 - **Present**: Reviewer Board Member, *Applied Physiology, Nutrition, and Metabolism*
 -   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*
 
 #### National
--   2025 - **Present**: Program Committee Member, National Nutrient Databank Conference
+-   2025 - Present: Program Committee Member, National Nutrient Databank Conference
 -   2025: Abstract Reviewer; Dietary Bioactive Components GEM, American Society for Nutrition
--   2023 – **Present**: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
+-   2023 – Present: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
 
 #### Institutional
 -   2026: Mentor, Cross Cultural Center’s Graduate & Professional Mentoring Program, UC Davis
@@ -150,12 +158,12 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 ### Professional Memberships
 
--   2025 - **Present**: American Society for Microbiology, Postdoctoral Member
--   2022 - **Present**: American Society for Nutrition, Early Career I Member
+-   2025 - Present: American Society for Microbiology, Postdoctoral Member
+-   2022 - Present: American Society for Nutrition, Early Career I Member
 -   2016 - 2022: American College of Sports Medicine, Member
 
 ### Program Skills
 
 -   Surveys and Assessments: REDCap; Qualtrics; ASA24, ACT 24, & DHQ III (National Cancer Institute)
 -   Data Analysis and Visualization: RStudio/R, Python
--   Graphic Design: Adobe Illustrator Suite (Photoshop, Illustrator, InDesign, Acrobat), Canva, Affinity, Biorender
+-   Graphic Design: Adobe Illustrator Suite (Illustrator, InDesign, Photoshop, Lightroom, Acrobat), Canva, Affinity, Biorender
