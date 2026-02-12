@@ -101,7 +101,7 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 -   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation, 2024 National Nutrient Databank Conference. Ottawa, Canada.
 
 #### National
--   **Wilson, S.M.G.** Applying AI and Advanced Computational Tools to Nutrition and Gut Microbiome Research. Nutrition Obesity Research Center. University of Washington. (*Scheduled 2/25/26*)
+-   **Wilson, S.M.G.** Structuring Dietary and Gut Microbiome Data for Machine Learning: Applications in Nutrition. Nutrition Obesity Research Center. University of Washington. (*Scheduled 2/25/26*)
 
 -   **Wilson, S.M.G.** From Mechanisms to Outcomes: How Prebiotics and Probiotics Can Support Health. Cardiovascular and Well-Being Dietetic Practice Group Symposium (Virtual). Academy of Nutrition and Dietetics. (*Scheduled 2/10/26*)
 
@@ -116,7 +116,7 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 -   **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) and Poster Session (Dietary Bioactive Components), ASN NUTRITION 2023. Boston, MA, USA.
 
 #### Outreach
--   **Wilson, S.M.G.**, Chamberlin, M.L. Pulses as metabolic leverage: Insights into how eating lentils can improve health. Pulse Potential Webinar (Virtual). Northern Crops Institute. (Scheduled 2/4/26)
+-   **Wilson, S.M.G.**, Chamberlin, M.L. Pulses as metabolic leverage: Insights into how eating lentils can improve health. Pulse Potential Webinar (Virtual). Northern Crops Institute. 
 
 
 ### Teaching
@@ -131,7 +131,7 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 \*Mentee [National Conference on Undergraduate Research](https://www.cur.org/) presentation titles listed [here](https://swi1.github.io/smgwilson/presentations/).
 
--   2026: Athena Aragon (PhD)
+-   2026: Athena Aragon (PhD), Esmeralda Reyes (PhD)
 -   2021 - 2022: Morgan Chamberlin (PhD), Emily Peterson (MS), Katie Logan (BS), Katy Kropatsch (BS)\*, Amanda Anderson (BS)\*, Jessica Kudelski (BS)\*, Jayme Dyc (BS)\*, Mackenzie Winters (BS)\*
 -   2020 - 2021: Hunter Baum (MS), Kaitlyn Weinheimer (BS)\*, Anna Kristenson (BS), Claire Turner (BS), Rachel Nyquist (BS), Sofia Whitefields (BS)\*
 -   2019 - 2020: Ian Breuner (BS)\*, Kirsten Pfannmuller (BS)\*, Gia Sorini (BS)\*, Bailey Veitenheimer (BS)\*
