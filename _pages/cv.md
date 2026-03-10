@@ -63,7 +63,7 @@ Principal Investigator: Dr. Mary P. Miles
 
 -  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** From Diet to Molecules: Application of Large Language Models for Mapping Dietary Data to Food Databases. (*In Review*).
 - **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. (*In Review*)
-- Spears, M.L., Chamberlin, M.L, Cooper, G., Sather, B., **Wilson, S.M.G.**, Bothner, B., Miles, M.P. Metabolic Syndrome Distinguished by Fecal Metabolites: A Cross-Sectional Study. (*Submitted*)
+- Spears, M.L., Chamberlin, M.L, Cooper, G., Sather, B., **Wilson, S.M.G.**, Bothner, B., Miles, M.P. Metabolic Syndrome Distinguished by Fecal Metabolites: A Cross-Sectional Study. (*In Review*)
 
 #### Other Publications
 
@@ -90,20 +90,19 @@ Principal Investigator: Dr. Mary P. Miles
 -   2022: President's Award for Gender Equity, Montana State University
 -   2022: Graduate School Excellence Award for Scholarship; Montana State University
 
-### Recent Conference Presentations
+### Recent Presentations
 
 Full list of presentations [here](https://swi1.github.io/smgwilson/presentations/).
 
-#### International
+#### Invited Talks
 
--   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Kable, M.E., Lemay, D.G. Dietary polyphenol intake is associated with an altered gut microbiome and lower gastrointestinal inflammation and permeability. Oral presentation, 2024 Aegean Conference on Precision Nutrition and Metabolism. Ioannina, Greece.
-  
--   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation, 2024 National Nutrient Databank Conference. Ottawa, Canada.
+-   **Wilson, S.M.G.**, Chamberlin, M.L. Pulses as metabolic leverage: Insights into how eating lentils can improve health. Pulse Potential Webinar (Virtual). Northern Crops Institute. February 2026. 
 
-#### National
--   **Wilson, S.M.G.** Structuring Dietary and Gut Microbiome Data for Machine Learning: Applications in Nutrition. Nutrition Obesity Research Center. University of Washington. (*Scheduled 2/25/26*)
+-   **Wilson, S.M.G.** Structuring Dietary and Gut Microbiome Data for Machine Learning: Applications in Nutrition. Nutrition Obesity Research Center. University of Washington. February 2026.
 
--   **Wilson, S.M.G.** From Mechanisms to Outcomes: How Prebiotics and Probiotics Can Support Health. Cardiovascular and Well-Being Dietetic Practice Group Symposium (Virtual). Academy of Nutrition and Dietetics. (*Scheduled 2/10/26*)
+-   **Wilson, S.M.G.** From Mechanisms to Outcomes: How Prebiotics and Probiotics Can Support Health. Cardiovascular and Well-Being Dietetic Practice Group Symposium (Virtual). Academy of Nutrition and Dietetics. February 2026.
+
+#### National Conferences
 
 -   **Wilson, S.M.G.**, Chamberlin, M.L., Walk, S.T., Yeoman, C.J., Miles, M.P. Consumption of Whole Green Lentils Alters Gut Microbial Composition in Metabolically At-Risk Adults. Oral Session (Nutritional Microbiology), ASN NUTRITION 2025. Orlando, FL, USA.
 
@@ -113,11 +112,11 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 -   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Lemay, D.G. Differences in Dietary Polyphenol Intake Are Associated with Altered Gut Microbiome in Healthy U.S. Adults. Oral Session (Polyphenols: Metabolism and Health) and Poster Session (Dietary Bioactive Components), ASN NUTRITION 2024. Chicago, IL, USA.
 
--   **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) and Poster Session (Dietary Bioactive Components), ASN NUTRITION 2023. Boston, MA, USA.
+#### International Conferences
 
-#### Outreach
--   **Wilson, S.M.G.**, Chamberlin, M.L. Pulses as metabolic leverage: Insights into how eating lentils can improve health. Pulse Potential Webinar (Virtual). Northern Crops Institute. 
-
+-   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Kable, M.E., Lemay, D.G. Dietary polyphenol intake is associated with an altered gut microbiome and lower gastrointestinal inflammation and permeability. Oral presentation, 2024 Aegean Conference on Precision Nutrition and Metabolism. Ioannina, Greece.
+  
+-   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation, 2024 National Nutrient Databank Conference. Ottawa, Canada.
 
 ### Teaching
 
@@ -147,10 +146,10 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 #### National
 -   2025 - Present: Program Committee Member, National Nutrient Databank Conference
 -   2025: Abstract Reviewer; Dietary Bioactive Components GEM, American Society for Nutrition
--   2023 – Present: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
+-   2023 - Present: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
 
 #### Institutional
--   2026: Mentor, Cross Cultural Center’s Graduate & Professional Mentoring Program, UC Davis
+-   2026: Mentor, Cross Cultural Center Graduate & Professional Mentoring Program, UC Davis
 -   2025: Panelist, Demystifying Graduate School from a Fil Am Perspective, UC Davis
 -   2023 - 2024: Institutional Elements Subcommittee Member, Advising for Equity Administrative Advisory Committee, UC Davis
 -   2018 - 2021: Departmental Steward, Graduate Employee Organization, Montana State University

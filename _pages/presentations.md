@@ -11,11 +11,11 @@ hide_title: true
 
 ### Presenting Author
 
-#### International
+#### International Conferences
 -   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Kable, M.E., Lemay, D.G. Dietary polyphenol intake is associated with an altered gut microbiome and lower gastrointestinal inflammation and permeability. Oral presentation to 2024 Aegean Conference on Precision Nutrition and Metabolism. Ioannina, Greece.
 -   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation to 2024 National Nutrient Databank Conference. Ottawa, Canada.
 
-#### National
+#### National Conferences
 -   **Wilson, S.M.G.**, Chamberlin, M.L., Walk, S.T., Yeoman, C.J., Miles, M.P. Consumption of Whole Green Lentils Alters Gut Microbial Composition in Metabolically At-Risk Adults. Oral Session (Nutritional Microbiology) at NUTRITION 2025. Orlando, FL, USA.
 -   **Wilson, S.M.G.**, Oliver, A., Alkan, Z., Patil, B., Stephensen, C.B., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. Oral Session (Postdoctoral Award Competition) and Poster Theater Flash Session (Dietary Bioactive Components) at NUTRITION 2025. Orlando, FL, USA.
 -   **Wilson, S.M.G.**, Oliver, A., and Lemay, D.G. Dietary Polyphenol Intake and Gastrointestinal Inflammation: An Application of Machine Learning. Oral Presentation at USDA Artificial Intelligence Forum. November 20, 2024. College Station, TX, USA. 
@@ -29,8 +29,12 @@ hide_title: true
 -   **Wilson, S.**, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M.P. Postprandial Serum Concentrations of Trimethylamine N-oxide in Metabolically Healthy Adults with Low and High Inflammation. Poster presentation delivered to 2018 ACSM annual meeting. Minneapolis, MN.
 
 ### Co-Authored Presentations
+
+#### 2026
+  - Hernandez, B.M., Garcia, J.K., Suarez, C., Jiang, S., Weng, C., Cagney, O., __Wilson, S.M.G.__, Lemay, D.G., Mills, D.A., Smilowitz, J.T., Lebrilla, C.B. An HPLC-MS/MS Multi-Omics Platform for Profiling Undigested Glycans and Short-Chain Fatty Acids of a High-Arabinose Diet in the Human Gut. Oral Presentation. ASMS Conference on Mass Spectrometry and Allied Topics. June 2026 (scheduled). San Diego, CA. 
+
 #### 2025
-  - Gersten, Z.P., __Wilson, S.M.G.__, Larke, J.A., Lemay, D.G., Stephensen, C.B., Caswell, B.L. Development of a nutrient diversity metric and its convergent validity with dietary quality in a sample of healthy US adults. Poster Presentationm ASN NUTRITION 2025. Orlando, FL. 
+  - Gersten, Z.P., __Wilson, S.M.G.__, Larke, J.A., Lemay, D.G., Stephensen, C.B., Caswell, B.L. Development of a nutrient diversity metric and its convergent validity with dietary quality in a sample of healthy US adults. Poster Presentation, ASN NUTRITION 2025. Orlando, FL. 
   - Hilliard, M.A., Oliver, A., Shahab-Ferdows, S., Hampel, D., __Wilson, S.M.G.__, Stephensen, C.B., Allen, L.H., Lemay, D.G. Diet and Microbiome Predictors of Plasma Vitamin B<sub>12</sub> in Healthy U.S. Adults. Oral presentation, ASN NUTRITION 2025. Orlando, FL.
   - Spears, M.L, Cooper, G., Sather, B., Chamberlin, M.L, __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Comparison of Fasting Metabolomic Profiles After 12-Weeks of Lentil Consumption. Presentation, ASN NUTRITION 2025. Orlando, FL.
 
