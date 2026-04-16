@@ -80,11 +80,12 @@ Principal Investigator: Dr. Mary P. Miles
 -   Impacts of Aronia on Inflammation and the Gut Microbiome [(NCT04128839)](https://clinicaltrials.gov/study/NCT04128839)
 
 ### Awards
+-   2026: New Investigator Award Winner, 44th National Nutrient Databank Conference.
 -   2025: Emerging Leaders in Nutrition Science Poster Competition Winner, **1st Place** (Dietary Bioactive Components), American Society for Nutrition 
 -   2025: Postdoctoral Research Award Competition Finalist, American Society for Nutrition 
 -   2025: Emerging Leaders in Nutrition Science Poster Competition Finalist (Nutritional Microbiology), American Society for Nutrition 
 -   2024: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components), American Society for Nutrition 
--   2024: New Investigator Award Runner-up. National Nutrient Databank Conference. 
+-   2024: New Investigator Award Runner-up. 43rd National Nutrient Databank Conference. 
 -   2023: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components), American Society for Nutrition
 -   2023: David Kritchevsky Award, [Nutrition Research](https://www.sciencedirect.com/journal/nutrition-research)
 -   2022: President's Award for Gender Equity, Montana State University
@@ -104,6 +105,8 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 #### National Conferences
 
+- **Wilson, S.M.G.**, Oliver, A., Lemay, D.G. Polyphenol Estimator: A New Automated Tool to Estimate Dietary Polyphenol Intake. 44th National Nutrient Databank Conference. April 2026. Washington DC, USA.
+
 -   **Wilson, S.M.G.**, Chamberlin, M.L., Walk, S.T., Yeoman, C.J., Miles, M.P. Consumption of Whole Green Lentils Alters Gut Microbial Composition in Metabolically At-Risk Adults. Oral Session (Nutritional Microbiology), ASN NUTRITION 2025. Orlando, FL, USA.
 
 -   **Wilson, S.M.G.**, Oliver, A., Alkan, Z., Patil, B., Stephensen, C.B., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. Oral Session (Postdoctoral Award Competition) and Poster Theater Flash Session (Dietary Bioactive Components), ASN  NUTRITION 2025. Orlando, FL, USA.
@@ -116,7 +119,7 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 -   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Kable, M.E., Lemay, D.G. Dietary polyphenol intake is associated with an altered gut microbiome and lower gastrointestinal inflammation and permeability. Oral presentation, 2024 Aegean Conference on Precision Nutrition and Metabolism. Ioannina, Greece.
   
--   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation, 2024 National Nutrient Databank Conference. Ottawa, Canada.
+-   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation, 43rd National Nutrient Databank Conference. Ottawa, Canada.
 
 ### Teaching
 
@@ -141,7 +144,7 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 #### Reviewer
 -   July 2025 - Present: Board of Editors Member, *Journal of the Academy of Nutrition and Dietetics*
 -   Nov 2024 - **Present**: Reviewer Board Member, *Applied Physiology, Nutrition, and Metabolism*
--   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*
+-   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*, *Journal of Health Psychology*
 
 #### National
 -   2025 - Present: Program Committee Member, National Nutrient Databank Conference
