@@ -12,6 +12,16 @@ If you would like to collaborate, please reach out [via email](https://swi1.gith
 
 ## Gallery
 
+<div style="position:relative;padding-top:60%;">
+  <iframe 
+    src="https://heyzine.com/flip-book/d688539439.html"
+    allowfullscreen
+    allow="clipboard-write"
+    scrolling="no"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:1px solid lightgray;">
+  </iframe>
+</div>
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <figure style="flex: 1 1 300px; max-width: 350px; text-align: center;">
