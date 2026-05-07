@@ -11,32 +11,43 @@ hide_title: true
 
 ### Presenting Author
 
-#### International Conferences
--   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Kable, M.E., Lemay, D.G. Dietary polyphenol intake is associated with an altered gut microbiome and lower gastrointestinal inflammation and permeability. Oral presentation to 2024 Aegean Conference on Precision Nutrition and Metabolism. Ioannina, Greece.
--   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation to 2024 National Nutrient Databank Conference. Ottawa, Canada.
+#### Invited Talks
+
+-   **Wilson, S.M.G.**, Chamberlin, M.L. Pulses as metabolic leverage: Insights into how eating lentils can improve health. Pulse Potential Webinar (Virtual). Northern Crops Institute. February 2026. 
+
+-   **Wilson, S.M.G.** Structuring Dietary and Gut Microbiome Data for Machine Learning: Applications in Nutrition. Nutrition Obesity Research Center. University of Washington. February 2026.
+
+-   **Wilson, S.M.G.** From Mechanisms to Outcomes: How Prebiotics and Probiotics Can Support Health. Cardiovascular and Well-Being Dietetic Practice Group Symposium (Virtual). Academy of Nutrition and Dietetics. February 2026.
 
 #### National Conferences
--   **Wilson, S.M.G.**, Chamberlin, M.L., Walk, S.T., Yeoman, C.J., Miles, M.P. Consumption of Whole Green Lentils Alters Gut Microbial Composition in Metabolically At-Risk Adults. Oral Session (Nutritional Microbiology) at NUTRITION 2025. Orlando, FL, USA.
--   **Wilson, S.M.G.**, Oliver, A., Alkan, Z., Patil, B., Stephensen, C.B., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. Oral Session (Postdoctoral Award Competition) and Poster Theater Flash Session (Dietary Bioactive Components) at NUTRITION 2025. Orlando, FL, USA.
--   **Wilson, S.M.G.**, Oliver, A., and Lemay, D.G. Dietary Polyphenol Intake and Gastrointestinal Inflammation: An Application of Machine Learning. Oral Presentation at USDA Artificial Intelligence Forum. November 20, 2024. College Station, TX, USA. 
--   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Lemay, D.G. Differences in Dietary Polyphenol Intake Are Associated with Altered Gut Microbiome in Healthy U.S. Adults. Oral Session (Polyphenols: Metabolism and Health) and Poster Session (Dietary Bioactive Components) presented at NUTRITION 2024. Chicago, IL, USA.
--   **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) and Poster Session (Dietary Bioactive Components) presented at NUTRITION 2023. Boston, MA, USA.
--   **Wilson, S.M.**, Vella, C.A., and Miles, M.P. Impact of Moderate-to-Vigorous Physical Activity and Visceral Adiposity on Postprandial Triglycerides in Metabolically At-Risk Adults. Thematic poster presentation at the 2022 ACSM Annual Meeting and World Congresses. San Diego, CA, USA.
--   **Wilson, S.M.**, Peterson, E., Gaston, M., McMilin, C., Kuo, W., and Miles M.P. 8 weeks of lentil consumption improves insulin sensitivity in overweight and obese adults -- a randomized controlled trial. Poster presentation delivered to 2020 Food and Nutrition Conference and Expo. Virtual.
--   **Wilson, S.M.**, Bronsky, S.E., Vella, C.A., and Miles, M.P. High-fat Meal Induced Lipemia Is Negatively Associated With Sedentary Time In Overweight And Obese Women. Poster presentation delivered to 2020 ACSM annual meeting. Virtual.
--   **Wilson, S.M**, Pinkham, N.V., Bronsky, S.E., Walk, S.T., Yeoman, C.J., and Miles, M.P. Frequency and mode of physical activity influence gut microbial composition in overweight and obese adults. Poster presentation delivered to 2019 ACSM annual meeting. Virtual.
--   **Wilson, S.**, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M. Metabolomic signatures of low-grade inflammation phenotypes versus inflammation response to a high-fat meal. Poster presentation delivered to the 2019 Gordon Research Conference -- Metabolomics and Human Health conference, Ventura, CA.
--   **Wilson, S.**, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M.P. Postprandial Serum Concentrations of Trimethylamine N-oxide in Metabolically Healthy Adults with Low and High Inflammation. Poster presentation delivered to 2018 ACSM annual meeting. Minneapolis, MN.
+
+- **Wilson, S.M.G.**, Oliver, A., Lemay, D.G. Polyphenol Estimator: A New Automated Tool to Estimate Dietary Polyphenol Intake. 44th  National Nutrient Databank Conference. Oral Presentation, April 2026. Washington DC, USA.
+-   **Wilson, S.M.G.**, Chamberlin, M.L., Walk, S.T., Yeoman, C.J., Miles, M.P. Consumption of Whole Green Lentils Alters Gut Microbial Composition in Metabolically At-Risk Adults. Oral Session (Nutritional Microbiology), NUTRITION 2025. Orlando, FL, USA.
+-   **Wilson, S.M.G.**, Oliver, A., Alkan, Z., Patil, B., Stephensen, C.B., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. Oral Session (Postdoctoral Award Competition) and Poster Theater Flash Session (Dietary Bioactive Components), NUTRITION 2025. Orlando, FL, USA.
+-   **Wilson, S.M.G.**, Oliver, A., and Lemay, D.G. Dietary Polyphenol Intake and Gastrointestinal Inflammation: An Application of Machine Learning. Oral Presentation, USDA Artificial Intelligence Forum. November 20, 2024. College Station, TX, USA. 
+-   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Lemay, D.G. Differences in Dietary Polyphenol Intake Are Associated with Altered Gut Microbiome in Healthy U.S. Adults. Oral Session (Polyphenols: Metabolism and Health) and Poster Session (Dietary Bioactive Components), NUTRITION 2024. Chicago, IL, USA.
+-   **Wilson, S.M.G.**, Larke, J.A., Naveja, J.J., Awika, J.M., Stephensen, C.B., Lemay, D.G. Dietary Intake and Food Contributors of Polyphenols in Healthy U.S. Adults: An Application of the FooDB Database. Oral Session (Big Data and -Omics in Bioactives Research) and Poster Session (Dietary Bioactive Components),  NUTRITION 2023. Boston, MA, USA.
+-   **Wilson, S.M.**, Vella, C.A., and Miles, M.P. Impact of Moderate-to-Vigorous Physical Activity and Visceral Adiposity on Postprandial Triglycerides in Metabolically At-Risk Adults. Thematic poster presentation, 2022 ACSM Annual Meeting and World Congresses. San Diego, CA, USA.
+-   **Wilson, S.M.**, Peterson, E., Gaston, M., McMilin, C., Kuo, W., and Miles M.P. 8 weeks of lentil consumption improves insulin sensitivity in overweight and obese adults -- a randomized controlled trial. Poster presentation, 2020 Food and Nutrition Conference and Expo. Virtual.
+-   **Wilson, S.M.**, Bronsky, S.E., Vella, C.A., and Miles, M.P. High-fat Meal Induced Lipemia Is Negatively Associated With Sedentary Time In Overweight And Obese Women. Poster presentation, 2020 ACSM annual meeting. Virtual.
+-   **Wilson, S.M**, Pinkham, N.V., Bronsky, S.E., Walk, S.T., Yeoman, C.J., and Miles, M.P. Frequency and mode of physical activity influence gut microbial composition in overweight and obese adults. Poster presentation, 2019 ACSM annual meeting. Virtual.
+-   **Wilson, S.**, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M. Metabolomic signatures of low-grade inflammation phenotypes versus inflammation response to a high-fat meal. Poster presentation, 2019 Gordon Research Conference -- Metabolomics and Human Health conference, Ventura, CA.
+-   **Wilson, S.**, Peach, J., Bothner, B., Maes, A., Yeoman, C., Walk, S., Bronsky, S., and Miles, M.P. Postprandial Serum Concentrations of Trimethylamine N-oxide in Metabolically Healthy Adults with Low and High Inflammation. Poster presentation, 2018 ACSM annual meeting. Minneapolis, MN.
+
+#### International Conferences
+-   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Kable, M.E., Lemay, D.G. Dietary polyphenol intake is associated with an altered gut microbiome and lower gastrointestinal inflammation and permeability. Oral presentation, 2024 Aegean Conference on Precision Nutrition and Metabolism. Ioannina, Greece.
+-   **Wilson, S.M.G.**, Larke, J.A., Oliver, A., Alkan, Z., Awika, J.M., Stephensen, C.B., Kable, M.E., Lemay, D.G. Mapping Dietary Data to FooDB Reveals Associations between Polyphenol Intake and Gastrointestinal Inflammation in Healthy Adults. Oral presentation, 43rd National Nutrient Databank Conference. Ottawa, Canada.
 
 ### Co-Authored Presentations
 
 #### 2026
-  - Hernandez, B.M., Garcia, J.K., Suarez, C., Jiang, S., Weng, C., Cagney, O., __Wilson, S.M.G.__, Lemay, D.G., Mills, D.A., Smilowitz, J.T., Lebrilla, C.B. An HPLC-MS/MS Multi-Omics Platform for Profiling Undigested Glycans and Short-Chain Fatty Acids of a High-Arabinose Diet in the Human Gut. Oral Presentation. ASMS Conference on Mass Spectrometry and Allied Topics. June 2026 (scheduled). San Diego, CA. 
+- Blecksmith, S.E. **Wilson, S.M.G.**, Kalentra, K., Cagney, O., Alkan, Z., Lebrilla, C.B., Mills, D.A., Smilowitz, J.T., Lemay, D.G. Effect of a high arabinose diet on markers of microbial mucin degradation in healthy adults. Poster Presentation, ASN NUTRITION 2026. National Harbor, MD.
+  - Hernandez, B.M., Garcia, J.K., Suarez, C., Jiang, S., Weng, C., Cagney, O., __Wilson, S.M.G.__, Lemay, D.G., Mills, D.A., Smilowitz, J.T., Lebrilla, C.B. An HPLC-MS/MS Multi-Omics Platform for Profiling Undigested Glycans and Short-Chain Fatty Acids of a High-Arabinose Diet in the Human Gut. Oral Presentation. ASMS Conference on Mass Spectrometry and Allied Topics. June 2026. San Diego, CA. 
 
 #### 2025
   - Gersten, Z.P., __Wilson, S.M.G.__, Larke, J.A., Lemay, D.G., Stephensen, C.B., Caswell, B.L. Development of a nutrient diversity metric and its convergent validity with dietary quality in a sample of healthy US adults. Poster Presentation, ASN NUTRITION 2025. Orlando, FL. 
   - Hilliard, M.A., Oliver, A., Shahab-Ferdows, S., Hampel, D., __Wilson, S.M.G.__, Stephensen, C.B., Allen, L.H., Lemay, D.G. Diet and Microbiome Predictors of Plasma Vitamin B<sub>12</sub> in Healthy U.S. Adults. Oral presentation, ASN NUTRITION 2025. Orlando, FL.
-  - Spears, M.L, Cooper, G., Sather, B., Chamberlin, M.L, __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Comparison of Fasting Metabolomic Profiles After 12-Weeks of Lentil Consumption. Presentation, ASN NUTRITION 2025. Orlando, FL.
+  - Spears, M.L, Cooper, G., Sather, B., Chamberlin, M.L, __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Comparison of Fasting Metabolomic Profiles After 12-Weeks of Lentil Consumption. Poster presentation, ASN NUTRITION 2025. Orlando, FL.
 
 #### 2024
   - Chamberlin, M.L., Sather, B., Cooper, G., __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Impact of Acute Lentil Intake on Postprandial Bile Acids and Triglycerides in Adults with Elevated Metabolic Risk. Poster Presentation, ASN NUTRITION 2024. Chicago, IL.
@@ -63,7 +74,7 @@ hide_title: true
 ### Mentee Presentations
 #### 2022
 - Dyc, J. __Wilson, S.__, Gaston, M.E., and Miles, M.P., Effects of a 12-week dietary intervention on postprandial blood lipids in overweight and obese adults. Poster presentation, 2022 National Conference on Undergraduate Research, Virtual. 
-- Kudelski, J.A., __Wilson, S.M.__, and Miles, M.P. The habitual relationship between whole grain consumption and gut microbial richness in overweight and obese adults.Poster presentation, 2022 National Conference on Undergraduate Research, Virtual. 
+- Kudelski, J.A., __Wilson, S.M.__, and Miles, M.P. The habitual relationship between whole grain consumption and gut microbial richness in overweight and obese adults. Poster presentation, 2022 National Conference on Undergraduate Research, Virtual. 
 - Winters, M., __Wilson, S.M.__, Vella, C., and Miles, M.P. The Impact of Objective Habitual Strength Training Exercise on Insulin Resistance. Poster presentation, 2022 National Conference on Undergraduate Research, Virtual.  
 - Anderson, A., __Wilson, S.M.__, Gaston, M.E., and Miles, M.P. The Impact of Habitual Exercise and Visceral Adipose Tissue on Interleukin-10, TNFa, Interleukin-6, Interleukin 1-B, and IFN-y. Poster presentation, 2022 National Conference on Undergraduate Research, Virtual.  
 - Kropatsch, K., __Wilson, S.M.__, Gaston, M.E., Kuo, W., and Miles, M.P. The relationship between appetite, fat-free mass, and resting metabolic rate in overweight and obese adults. Poster presentation, 2022 National Conference on Undergraduate Research, Virtual. 

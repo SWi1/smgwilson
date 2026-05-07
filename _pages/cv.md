@@ -22,6 +22,9 @@ Indiana University, Bloomington, IN
 
 ### Employment
 
+**Assistant Professor, August 2026 (Expected Start)**\
+The Ohio State University, Human Nutrition Program, Columbus, OH
+
 **Postdoctoral Fellow, June 2025 - Present**\
 University of California, Davis (UCD), Davis, CA\
 USDA-ARS Western Human Nutrition Research Center (WHNRC), Davis, CA\
@@ -64,13 +67,14 @@ Principal Investigator: Dr. Mary P. Miles
 -  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** From Diet to Molecules: Application of Large Language Models for Mapping Dietary Data to Food Databases. (*In Review*).
 - **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. (*In Review*)
 - Spears, M.L., Chamberlin, M.L, Cooper, G., Sather, B., **Wilson, S.M.G.**, Bothner, B., Miles, M.P. Metabolic Syndrome Distinguished by Fecal Metabolites: A Cross-Sectional Study. (*In Review*)
+- Bouzid, Y.Y., Oliver, A., Blecksmith, S., **Wilson, S.M.G.**, Alkan, Z., Huang, L., Bennett, B., Kable, M.E., Stephensen, C.B., Lemay, D.G. Association between Fiber Intake and Gastrointestinal Inflammation is Dependent on FUT2 Secretor Status in Healthy Adults. (*Submitted*)
 
 #### Other Publications
 
 -   Miles, M.P., **Wilson, S.M.G.**, Chamberlin, M.L. (2022) *Sports Nutrition Laboratory Manual*. Montana State University Library. <https://scholarworks.montana.edu/xmlui/handle/1/16659>
 
 ### Grants
--   2024, Impact of Pulses Consumption on Lowering Antimicrobial Resistance in Gut Microbiomes, Pulse Crop Health Initiative (Year 1 $90,413) - Contributor, Key Personnel
+-   2024, Impact of Pulses Consumption on Lowering Antimicrobial Resistance in Gut Microbiomes, Pulse Crop Health Initiative (Year 1 $90,413, Year 2 $115,336) - Contributor, Key Personnel
 -   2024, Identification of molecular traits of specific pulses that maximize human health, Pulse Crop Health Initiative (Year 1 $81,813) - Contributor
 
 ### Clinical Trial Experience
@@ -105,15 +109,13 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 #### National Conferences
 
-- **Wilson, S.M.G.**, Oliver, A., Lemay, D.G. Polyphenol Estimator: A New Automated Tool to Estimate Dietary Polyphenol Intake. 44th National Nutrient Databank Conference. April 2026. Washington DC, USA.
+- **Wilson, S.M.G.**, Oliver, A., Lemay, D.G. Polyphenol Estimator: A New Automated Tool to Estimate Dietary Polyphenol Intake. 44th  National Nutrient Databank Conference. Oral Presentation, April 2026. Washington DC, USA.
 
 -   **Wilson, S.M.G.**, Chamberlin, M.L., Walk, S.T., Yeoman, C.J., Miles, M.P. Consumption of Whole Green Lentils Alters Gut Microbial Composition in Metabolically At-Risk Adults. Oral Session (Nutritional Microbiology), ASN NUTRITION 2025. Orlando, FL, USA.
 
 -   **Wilson, S.M.G.**, Oliver, A., Alkan, Z., Patil, B., Stephensen, C.B., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. Oral Session (Postdoctoral Award Competition) and Poster Theater Flash Session (Dietary Bioactive Components), ASN  NUTRITION 2025. Orlando, FL, USA.
   
 -   **Wilson, S.M.G.**, Oliver, A., and Lemay, D.G. Dietary Polyphenol Intake and Gastrointestinal Inflammation: An Application of Machine Learning. Oral Presentation, USDA Artificial Intelligence Forum. November 20, 2024. College Station, TX, USA. 
-
--   **Wilson, S.M.G.**, Oliver, A., Awika, J.M., Alkan, Z. Stephensen, C.B., Lemay, D.G. Differences in Dietary Polyphenol Intake Are Associated with Altered Gut Microbiome in Healthy U.S. Adults. Oral Session (Polyphenols: Metabolism and Health) and Poster Session (Dietary Bioactive Components), ASN NUTRITION 2024. Chicago, IL, USA.
 
 #### International Conferences
 
@@ -147,8 +149,9 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 -   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*, *Journal of Health Psychology*
 
 #### National
+-   2026: Abstract Reviewer, American Society for Nutrition, NUTRITION 2026
 -   2025 - Present: Program Committee Member, National Nutrient Databank Conference
--   2025: Abstract Reviewer; Dietary Bioactive Components GEM, American Society for Nutrition
+-   2025: Abstract Reviewer, American Society for Nutrition, NUTRITION 2025
 -   2023 - Present: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
 
 #### Institutional
