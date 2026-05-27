@@ -40,8 +40,16 @@ If you would like to collaborate, please reach out [via email](https://swi1.gith
 
   <figure style="flex: 1 1 300px; max-width: 350px; text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/dietML_logo.png" alt="brown logo with pizza slice on the left, a bar plot on the right, and dietML as black text" style="width: 100%; height: auto;">
-    <figcaption><a href ="https://github.com/aoliver44/nutrition_tools" 
-      dietML</a>: A program for applying machine learning in nutrition science.</figcaption>
+    <figcaption><a href ="https://github.com/aoliver44/nutrition_tools"> 
+      dietML
+      </a>: A program for applying machine learning in nutrition science.</figcaption>
+  </figure>
+
+  <figure style="flex: 1 1 300px; max-width: 350px; text-align: center;">
+    <img src="{{ site.baseurl }}/assets/images/Polyphenol_Estimator_logo.png" alt="pink logo with cranberries and a pomegranate on the top, and Polyphenol Estimator below in cursive white text" style="width: 100%; height: auto;">
+    <figcaption><a href ="https://swi1.github.io/polyphenol_estimator/"> 
+      Polyphenol Estimator
+      </a>: A tool to obtain polyphenol intake and DII from ASA24 and NHANES diet data.</figcaption>
   </figure>
 
   <figure style="flex: 1 1 300px; max-width: 350px; text-align: center;">
