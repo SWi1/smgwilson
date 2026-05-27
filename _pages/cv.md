@@ -65,9 +65,9 @@ Principal Investigator: Dr. Mary P. Miles
 #### Journal Articles (Submitted)
 
 -  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** From Diet to Molecules: Application of Large Language Models for Mapping Dietary Data to Food Databases. (*In Review*).
-- **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. (*In Review*)
+- **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. (*Accepted, proof stage*)
 - Spears, M.L., Chamberlin, M.L, Cooper, G., Sather, B., **Wilson, S.M.G.**, Bothner, B., Miles, M.P. Metabolic Syndrome Distinguished by Fecal Metabolites: A Cross-Sectional Study. (*In Review*)
-- Bouzid, Y.Y., Oliver, A., Blecksmith, S., **Wilson, S.M.G.**, Alkan, Z., Huang, L., Bennett, B., Kable, M.E., Stephensen, C.B., Lemay, D.G. Association between Fiber Intake and Gastrointestinal Inflammation is Dependent on FUT2 Secretor Status in Healthy Adults. (*Submitted*)
+- Bouzid, Y.Y., Oliver, A., Blecksmith, S., **Wilson, S.M.G.**, Alkan, Z., Huang, L., Bennett, B., Kable, M.E., Stephensen, C.B., Lemay, D.G. Association between Fiber Intake and Gastrointestinal Inflammation is Dependent on FUT2 Secretor Status in Healthy Adults. (*In Review*)
 
 #### Other Publications
 
@@ -84,13 +84,13 @@ Principal Investigator: Dr. Mary P. Miles
 -   Impacts of Aronia on Inflammation and the Gut Microbiome [(NCT04128839)](https://clinicaltrials.gov/study/NCT04128839)
 
 ### Awards
--   2026: New Investigator Award Winner, 44th National Nutrient Databank Conference.
--   2025: Emerging Leaders in Nutrition Science Poster Competition Winner, **1st Place** (Dietary Bioactive Components), American Society for Nutrition 
--   2025: Postdoctoral Research Award Competition Finalist, American Society for Nutrition 
--   2025: Emerging Leaders in Nutrition Science Poster Competition Finalist (Nutritional Microbiology), American Society for Nutrition 
--   2024: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components), American Society for Nutrition 
--   2024: New Investigator Award Runner-up. 43rd National Nutrient Databank Conference. 
--   2023: Emerging Leaders in Nutrition Science Poster Competition Finalist (Dietary Bioactive Components), American Society for Nutrition
+-   2026: Winner, New Investigator Award, 44th National Nutrient Databank Conference.
+-   2025: 1st Place, Emerging Leaders in Nutrition Science Poster Competition Winner (Dietary Bioactive Components), American Society for Nutrition 
+-   2025: Finalist, Postdoctoral Research Award Competition, American Society for Nutrition 
+-   2025: Finalist, Emerging Leaders in Nutrition Science Poster Competition (Nutritional Microbiology), American Society for Nutrition 
+-   2024: Finalist, Emerging Leaders in Nutrition Science Poster Competition (Dietary Bioactive Components), American Society for Nutrition 
+-   2024: Runner-up, New Investigator Award, 43rd National Nutrient Databank Conference. 
+-   2023: Finalist, Emerging Leaders in Nutrition Science Poster Competition  (Dietary Bioactive Components), American Society for Nutrition
 -   2023: David Kritchevsky Award, [Nutrition Research](https://www.sciencedirect.com/journal/nutrition-research)
 -   2022: President's Award for Gender Equity, Montana State University
 -   2022: Graduate School Excellence Award for Scholarship; Montana State University
@@ -149,9 +149,8 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 -   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*, *Journal of Health Psychology*
 
 #### National
--   2026: Abstract Reviewer, American Society for Nutrition, NUTRITION 2026
 -   2025 - Present: Program Committee Member, National Nutrient Databank Conference
--   2025: Abstract Reviewer, American Society for Nutrition, NUTRITION 2025
+-   2025 - 2026: Abstract Reviewer, American Society for Nutrition, NUTRITION
 -   2023 - Present: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
 
 #### Institutional

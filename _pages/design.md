@@ -26,17 +26,22 @@ If you would like to collaborate, please reach out [via email](https://swi1.gith
 
   <figure style="flex: 1 1 300px; max-width: 350px; text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/taxaHFE_logo.png" alt="black logo with dendrogram and trees for taxaHFE software program" style="width: 100%; height: auto;">
-    <figcaption>TaxaHFE: A taxonomically aware program that facilitates hierarchical feature engineering.</figcaption>
+    <figcaption> <a href="https://doi.org/10.1093/bioadv/vbad165">
+      TaxaHFE
+    </a>: A taxonomically aware program that facilitates hierarchical feature engineering.</figcaption>
   </figure>
 
   <figure style="flex: 1 1 300px; max-width: 350px; text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/FoodMapper_logo.png" alt="green and blue logo with food icons and Food Mapper in white text" style="width: 100%; height: auto;">
-    <figcaption>FoodMapper: A program that uses neural embeddings to match food descriptions between two databases.</figcaption>
+    <figcaption><a href = "https://foodmapper.app/"> 
+      FoodMapper
+      </a>: A program that uses neural embeddings to match food descriptions between two databases.</figcaption>
   </figure>
 
   <figure style="flex: 1 1 300px; max-width: 350px; text-align: center;">
     <img src="{{ site.baseurl }}/assets/images/dietML_logo.png" alt="brown logo with pizza slice on the left, a bar plot on the right, and dietML as black text" style="width: 100%; height: auto;">
-    <figcaption>dietML: A program for applying machine learning in nutrition science.</figcaption>
+    <figcaption><a href ="https://github.com/aoliver44/nutrition_tools" 
+      dietML</a>: A program for applying machine learning in nutrition science.</figcaption>
   </figure>
 
   <figure style="flex: 1 1 300px; max-width: 350px; text-align: center;">

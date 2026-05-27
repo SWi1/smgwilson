@@ -33,7 +33,7 @@ author_profile: true
   }
 </style>
 
-<form action="https://formspree.io/f/mrbljbpl" method="POST">
+<form action="https://formspree.io/f/xykovrqp" method="POST">
   <label>
     Your Name:
     <input type="text" name="name" required>

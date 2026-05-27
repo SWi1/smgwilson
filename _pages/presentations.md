@@ -42,34 +42,34 @@ hide_title: true
 
 #### 2026
 - Blecksmith, S.E. **Wilson, S.M.G.**, Kalentra, K., Cagney, O., Alkan, Z., Lebrilla, C.B., Mills, D.A., Smilowitz, J.T., Lemay, D.G. Effect of a high arabinose diet on markers of microbial mucin degradation in healthy adults. Poster Presentation, ASN NUTRITION 2026. National Harbor, MD.
-  - Hernandez, B.M., Garcia, J.K., Suarez, C., Jiang, S., Weng, C., Cagney, O., __Wilson, S.M.G.__, Lemay, D.G., Mills, D.A., Smilowitz, J.T., Lebrilla, C.B. An HPLC-MS/MS Multi-Omics Platform for Profiling Undigested Glycans and Short-Chain Fatty Acids of a High-Arabinose Diet in the Human Gut. Oral Presentation. ASMS Conference on Mass Spectrometry and Allied Topics. June 2026. San Diego, CA. 
+- Hernandez, B.M., Garcia, J.K., Suarez, C., Jiang, S., Weng, C., Cagney, O., __Wilson, S.M.G.__, Lemay, D.G., Mills, D.A., Smilowitz, J.T., Lebrilla, C.B. An HPLC-MS/MS Multi-Omics Platform for Profiling Undigested Glycans and Short-Chain Fatty Acids of a High-Arabinose Diet in the Human Gut. Oral Presentation. ASMS Conference on Mass Spectrometry and Allied Topics. June 2026. San Diego, CA. 
 
 #### 2025
-  - Gersten, Z.P., __Wilson, S.M.G.__, Larke, J.A., Lemay, D.G., Stephensen, C.B., Caswell, B.L. Development of a nutrient diversity metric and its convergent validity with dietary quality in a sample of healthy US adults. Poster Presentation, ASN NUTRITION 2025. Orlando, FL. 
-  - Hilliard, M.A., Oliver, A., Shahab-Ferdows, S., Hampel, D., __Wilson, S.M.G.__, Stephensen, C.B., Allen, L.H., Lemay, D.G. Diet and Microbiome Predictors of Plasma Vitamin B<sub>12</sub> in Healthy U.S. Adults. Oral presentation, ASN NUTRITION 2025. Orlando, FL.
-  - Spears, M.L, Cooper, G., Sather, B., Chamberlin, M.L, __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Comparison of Fasting Metabolomic Profiles After 12-Weeks of Lentil Consumption. Poster presentation, ASN NUTRITION 2025. Orlando, FL.
+- Gersten, Z.P., __Wilson, S.M.G.__, Larke, J.A., Lemay, D.G., Stephensen, C.B., Caswell, B.L. Development of a nutrient diversity metric and its convergent validity with dietary quality in a sample of healthy US adults. Poster Presentation, ASN NUTRITION 2025. Orlando, FL. 
+- Hilliard, M.A., Oliver, A., Shahab-Ferdows, S., Hampel, D., __Wilson, S.M.G.__, Stephensen, C.B., Allen, L.H., Lemay, D.G. Diet and Microbiome Predictors of Plasma Vitamin B<sub>12</sub> in Healthy U.S. Adults. Oral presentation, ASN NUTRITION 2025. Orlando, FL.
+- Spears, M.L, Cooper, G., Sather, B., Chamberlin, M.L, __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Comparison of Fasting Metabolomic Profiles After 12-Weeks of Lentil Consumption. Poster presentation, ASN NUTRITION 2025. Orlando, FL.
 
 #### 2024
-  - Chamberlin, M.L., Sather, B., Cooper, G., __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Impact of Acute Lentil Intake on Postprandial Bile Acids and Triglycerides in Adults with Elevated Metabolic Risk. Poster Presentation, ASN NUTRITION 2024. Chicago, IL.
-  - Lee, L.M., __Wilson, S.M.G.__, Wolfe, T.M., Walk, S.T., Yeoman, C.J., Miles, M.P. Impact of Fecal Microbial Transplant Donor Inflammatory Phenotype on Tissue Inflammation in Humanized Mouse Models After a High-Fat Diet. Poster Presentation, ASN NUTRITION 2024. Chicago, IL.
+- Chamberlin, M.L., Sather, B., Cooper, G., __Wilson, S.M.G.__, Bothner, B., Miles, M.P. Impact of Acute Lentil Intake on Postprandial Bile Acids and Triglycerides in Adults with Elevated Metabolic Risk. Poster Presentation, ASN NUTRITION 2024. Chicago, IL.
+- Lee, L.M., __Wilson, S.M.G.__, Wolfe, T.M., Walk, S.T., Yeoman, C.J., Miles, M.P. Impact of Fecal Microbial Transplant Donor Inflammatory Phenotype on Tissue Inflammation in Humanized Mouse Models After a High-Fat Diet. Poster Presentation, ASN NUTRITION 2024. Chicago, IL.
 
 #### 2023 
-  - Chamberlin, M., __Wilson, S.M.G__, and Miles, M.P. Impact of a 12-Week Lentil Dietary Intervention on Inflammation in a Metabollically At-Risk Population. Poster presentation, ASN NUTRITION 2023, Boston, MA.
-  - Chamberlin, M., Peterson, E., Lee, L.,  __Wilson, S.M.G__, and Miles, M.P. Anthropometric Predictors Of The Postprandial Triglyceride Response In A Metabolically At-risk Cohort. Poster presentation, 2023 ACSM Annual Meeting, Denver, CO.
-  - Kropatsch, K., Chamberlin, M., __Wilson, S.M.G__, Spears, M., and Miles, M.P. Anthropometric Determinants Of HOMA-IR In A Metabolically At-risk Population. Poster presentation, 2023 ACSM Annual Meeting, Denver, CO.
-  - Spears, M., Chamberlin, M., Bhattarai, P., Kropatsch, K., __Wilson, S.M.G__, and Miles, M.P. Relationship Between Body Composition And Inflammation In Individuals At Risk For Metabolic Syndrome. Poster presentation, 2023 ACSM Annual Meeting, Denver, CO.
+- Chamberlin, M., __Wilson, S.M.G__, and Miles, M.P. Impact of a 12-Week Lentil Dietary Intervention on Inflammation in a Metabollically At-Risk Population. Poster presentation, ASN NUTRITION 2023, Boston, MA.
+- Chamberlin, M., Peterson, E., Lee, L.,  __Wilson, S.M.G__, and Miles, M.P. Anthropometric Predictors Of The Postprandial Triglyceride Response In A Metabolically At-risk Cohort. Poster presentation, 2023 ACSM Annual Meeting, Denver, CO.
+- Kropatsch, K., Chamberlin, M., __Wilson, S.M.G__, Spears, M., and Miles, M.P. Anthropometric Determinants Of HOMA-IR In A Metabolically At-risk Population. Poster presentation, 2023 ACSM Annual Meeting, Denver, CO.
+- Spears, M., Chamberlin, M., Bhattarai, P., Kropatsch, K., __Wilson, S.M.G__, and Miles, M.P. Relationship Between Body Composition And Inflammation In Individuals At Risk For Metabolic Syndrome. Poster presentation, 2023 ACSM Annual Meeting, Denver, CO.
 
 #### 2022
-  - Lotstein, A.K., __Wilson, S.__, Vella, C.A., and Miles, M.P. Test-Retest Reliaability of Physical Activity and Sedentary Behaviors in Non-diabetic Overweight and Obese Adults. Poster presentation, 2022 ACSM Annual Meeting, San Diego, CA.
+- Lotstein, A.K., __Wilson, S.__, Vella, C.A., and Miles, M.P. Test-Retest Reliaability of Physical Activity and Sedentary Behaviors in Non-diabetic Overweight and Obese Adults. Poster presentation, 2022 ACSM Annual Meeting, San Diego, CA.
 
 #### 2020 
-  - Rowland, I.F., __Wilson, S.M.__, Bronsky, S., Maes, A., Miles, M. (2020) High versus low inflammation phenotype and fat utilization during exercise. Medicine and Science in Sports and Exercise: v. 52 i. 5 Suppl p. 385-385
-  - Xavier, S.A., __Wilson, S.M.__, Bronsky, S., Miles, M. (2020) Impact of cardiorespiratory fitness on carbohydrate utilization in overweight and obese adults. Medicine and Science in Sports and Exercise: v. 52 i. 5 Suppl p. 467.
-  - Baum, H.R., __Wilson, S.M.__, Bronsky, S., Miles, M.P. (2020) Substrate Utlization Differences Between Overweight and Obese Men and Women During Exercise. Medicine and Science in Sports and Exercise: v. 52 i. 5 Suppl p. 839. 
+- Rowland, I.F., __Wilson, S.M.__, Bronsky, S., Maes, A., Miles, M. (2020) High versus low inflammation phenotype and fat utilization during exercise. Medicine and Science in Sports and Exercise: v. 52 i. 5 Suppl p. 385-385
+- Xavier, S.A., __Wilson, S.M.__, Bronsky, S., Miles, M. (2020) Impact of cardiorespiratory fitness on carbohydrate utilization in overweight and obese adults. Medicine and Science in Sports and Exercise: v. 52 i. 5 Suppl p. 467.
+- Baum, H.R., __Wilson, S.M.__, Bronsky, S., Miles, M.P. (2020) Substrate Utlization Differences Between Overweight and Obese Men and Women During Exercise. Medicine and Science in Sports and Exercise: v. 52 i. 5 Suppl p. 839. 
 
 #### 2018
-  - Davies, R., __Wilson, S.__, Bronsky, S. Walk, S., Yeoman, C., and Miles, M.P. Increase in Beta-hydroxybutytrate after High-fat Meal in Metabollically Healthy Overweight/Obese Adults. Poster presentation, 2018 ACSM Annual Meeting, Minneapolis, MN. 
-  - Chamberlin, M.C., Ritter, J., Maes, A., __Wilson, S.__, Bronsky, S., Walk, S., Yeoman, C., and Miles, M.P. Physical Activity and Glycemic Control in Low Versus High Inflammation Phenotypes in Metabollically Healthy Adults. Poster presentation, 2018 ACSM Annual Meeting, Minneapolis, MN. 
+- Davies, R., __Wilson, S.__, Bronsky, S. Walk, S., Yeoman, C., and Miles, M.P. Increase in Beta-hydroxybutytrate after High-fat Meal in Metabollically Healthy Overweight/Obese Adults. Poster presentation, 2018 ACSM Annual Meeting, Minneapolis, MN. 
+- Chamberlin, M.C., Ritter, J., Maes, A., __Wilson, S.__, Bronsky, S., Walk, S., Yeoman, C., and Miles, M.P. Physical Activity and Glycemic Control in Low Versus High Inflammation Phenotypes in Metabollically Healthy Adults. Poster presentation, 2018 ACSM Annual Meeting, Minneapolis, MN. 
 
 ### Mentee Presentations
 #### 2022
