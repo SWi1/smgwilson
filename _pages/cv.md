@@ -42,32 +42,35 @@ Principal Investigator: Dr. Mary P. Miles
 ### Publications
 #### Journal Articles
   
-1. Gersten, Z.P., **Wilson, S.M.G.**, Larke, J.A., Lemay, D.G., Caswell, B.L. (2025). A pilot study of the Nutrient Composition Diversity Index in a sample of healthy US adults shows positive associations with adherence to the Dietary Guidelines for Americans and micronutrient adequacy. *Current Developments in Nutrition*. [doi: 10.1016/j.cdnut.2025.107576](https://doi.org/10.1016/j.cdnut.2025.107576)
+1. **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. *Food & Function*. [doi: 10.1039/D6FO00158K](https://doi.org/10.1039/D6FO00158K)
 
-2.  Chamberlin, M.L., Peach, J.T., **Wilson, S.M.G.**, Miller, Z.T., Bothner, B., Walk, S.T., Yeoman, C.J., Miles, M.P. (2024). Polyphenol-rich Aronia melanocarpa fruit beneficially impact cholesterol, glucose, and serum and gut metabolites: a randomized clinical trial. *Foods*. [doi:10.3390/foods13172768](https://doi.org/10.3390/foods13172768)
+2. Gersten, Z.P., **Wilson, S.M.G.**, Larke, J.A., Lemay, D.G., Caswell, B.L. (2025). A pilot study of the Nutrient Composition Diversity Index in a sample of healthy US adults shows positive associations with adherence to the Dietary Guidelines for Americans and micronutrient adequacy. *Current Developments in Nutrition*. [doi: 10.1016/j.cdnut.2025.107576](https://doi.org/10.1016/j.cdnut.2025.107576)
 
-3.   **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. (2024). Fine-scale Dietary Polyphenol Intake is Associated with Systemic and Gastrointestinal Inflammation in Healthy Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.08.010](https://doi.org/10.1016/j.tjnut.2024.08.010)
+3.  Chamberlin, M.L., Peach, J.T., **Wilson, S.M.G.**, Miller, Z.T., Bothner, B., Walk, S.T., Yeoman, C.J., Miles, M.P. (2024). Polyphenol-rich Aronia melanocarpa fruit beneficially impact cholesterol, glucose, and serum and gut metabolites: a randomized clinical trial. *Foods*. [doi:10.3390/foods13172768](https://doi.org/10.3390/foods13172768)
 
-4.   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2024). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.02.030](https://doi.org/10.1016/j.tjnut.2024.02.030)
+4.   **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. (2024). Fine-scale Dietary Polyphenol Intake is Associated with Systemic and Gastrointestinal Inflammation in Healthy Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.08.010](https://doi.org/10.1016/j.tjnut.2024.08.010)
 
-5.   Chamberlin, M.L., **Wilson, S.M.G.**, Gaston, M.E., Kuo, W., Miles, M.P. (2024). Twelve Weeks of Daily Lentil Consumption Improves Fasting Cholesterol and Postprandial Glucose and Inflammatory Responses - A Randomized Clinical Trial. *Nutrients*. [doi: 10.3390/nu16030419](https://doi.org/10.3390/nu16030419)
+5.   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2024). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.02.030](https://doi.org/10.1016/j.tjnut.2024.02.030)
 
-6.   **Wilson, S.M.G.**&dagger;, Peach, J.T.&dagger;, Fausset, H., Miller, Z.T, Walk, S.T., Yeoman, C.J., Bothner, B., Miles, M.P. (2023). Metabolic Impact of Polyphenol-rich Aronia Fruit Juice Mediated by Inflammation Status of Gut Microbiome Donors in Humanized Mouse Model. *Frontiers in Nutrition*. [doi:  10.3389/fnut.2023.1244692](https://doi.org/10.3389/fnut.2023.1244692) &dagger;first authorship shared
+6.   Chamberlin, M.L., **Wilson, S.M.G.**, Gaston, M.E., Kuo, W., Miles, M.P. (2024). Twelve Weeks of Daily Lentil Consumption Improves Fasting Cholesterol and Postprandial Glucose and Inflammatory Responses - A Randomized Clinical Trial. *Nutrients*. [doi: 10.3390/nu16030419](https://doi.org/10.3390/nu16030419)
+
+7.   **Wilson, S.M.G.**&dagger;, Peach, J.T.&dagger;, Fausset, H., Miller, Z.T, Walk, S.T., Yeoman, C.J., Bothner, B., Miles, M.P. (2023). Metabolic Impact of Polyphenol-rich Aronia Fruit Juice Mediated by Inflammation Status of Gut Microbiome Donors in Humanized Mouse Model. *Frontiers in Nutrition*. [doi:  10.3389/fnut.2023.1244692](https://doi.org/10.3389/fnut.2023.1244692) &dagger;first authorship shared
     
-7.   **Wilson, S.M.G.**, Peterson, E.J., Gaston, M.E., Kuo, W., and Miles, M.P. (2022). Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity - A Randomized Clinical Trial. *Nutrition Research*. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
+8.   **Wilson, S.M.G.**, Peterson, E.J., Gaston, M.E., Kuo, W., and Miles, M.P. (2022). Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity - A Randomized Clinical Trial. *Nutrition Research*. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
 
-8.   **Wilson, S.M.**, Maes, A.P., Walk, S.T., Yeoman, C.J., and Miles, M.P. (2021). Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. *Lipids in Health and Disease*. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
+9.   **Wilson, S.M.**, Maes, A.P., Walk, S.T., Yeoman, C.J., and Miles, M.P. (2021). Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. *Lipids in Health and Disease*. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
 
-9.   Peach, J.T., **Wilson, S.M.**, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. (2021). Temporal metabolic response yields a dynamic biosignature of inflammation. *iScience*. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859)
+10.   Peach, J.T., **Wilson, S.M.**, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. (2021). Temporal metabolic response yields a dynamic biosignature of inflammation. *iScience*. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859)
 
-10.   Miles, M.P, **Wilson, S**, and Yeoman, C.J. (2019). Physical Activity and Inflammation Phenotype Conversion. *Journal of Clinical Exercise Physiology*: June 2019. [doi: 10.31189/2165-6193-8.2.64](https://meridian.allenpress.com/jcep/article/8/2/64/433899/Physical-Activity-and-Inflammation-Phenotype)
+11.   Miles, M.P, **Wilson, S**, and Yeoman, C.J. (2019). Physical Activity and Inflammation Phenotype Conversion. *Journal of Clinical Exercise Physiology*: June 2019. [doi: 10.31189/2165-6193-8.2.64](https://meridian.allenpress.com/jcep/article/8/2/64/433899/Physical-Activity-and-Inflammation-Phenotype)
 
-#### Journal Articles (Submitted)
+#### Preprints and Submitted Journal Articles
 
 -  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** From Diet to Molecules: Application of Large Language Models for Mapping Dietary Data to Food Databases. (*In Review*).
-- **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. (*Accepted, proof stage*)
 - Spears, M.L., Chamberlin, M.L, Cooper, G., Sather, B., **Wilson, S.M.G.**, Bothner, B., Miles, M.P. Metabolic Syndrome Distinguished by Fecal Metabolites: A Cross-Sectional Study. (*In Review*)
 - Bouzid, Y.Y., Oliver, A., Blecksmith, S., **Wilson, S.M.G.**, Alkan, Z., Huang, L., Bennett, B., Kable, M.E., Stephensen, C.B., Lemay, D.G. Association between Fiber Intake and Gastrointestinal Inflammation is Dependent on FUT2 Secretor Status in Healthy Adults. (*In Review*)
+- Hilliard, M.A., Oliver, A., **Wilson, S.M.G.**, Shahab-Ferdows, S., Hampel, D., Bennett, B.J., Allen, L.H., Lemay, D.G. Excess dietary vitamin B12 linked to lower fecal short-chain fatty acids and changes in gut microbial function in healthy United States adults. (*In Review*)
+- **Wilson, S.M.G.**, Oliver, A., Lemay, D.G. Polyphenol Estimator: A New Tool To Estimate Dietary Polyphenol Intake from ASA24 and NHANES Dietary Data. *medRxiv*. [doi: 10.64898/2026.05.27.26353727](https://doi.org/10.64898/2026.05.27.26353727).
 
 #### Other Publications
 
