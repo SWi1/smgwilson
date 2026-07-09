@@ -41,9 +41,9 @@ Principal Investigator: Dr. Mary P. Miles
 
 ### Publications
 #### Journal Articles
-1. Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A.,  **Wilson, S.M.G.** (2026). Evaluation of Large Language Models for Mapping Dietary Data to Food Databases. *The Journal of Nutrition*. doi: 10.1016/j.tjnut.2026.101678
+1.  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** (2026). From Diet to Molecules: Application of Large Language Models for Mapping Dietary Data to Food Databases. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2026.101678](https://doi.org/10.1016/j.tjnut.2026.101678)
 
-2. **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. *Food & Function*. [doi: 10.1039/D6FO00158K](https://doi.org/10.1039/D6FO00158K)
+2. **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. (2026) Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. *Food & Function*. [doi: 10.1039/D6FO00158K](https://doi.org/10.1039/D6FO00158K)
 
 3. Gersten, Z.P., **Wilson, S.M.G.**, Larke, J.A., Lemay, D.G., Caswell, B.L. (2025). A pilot study of the Nutrient Composition Diversity Index in a sample of healthy US adults shows positive associations with adherence to the Dietary Guidelines for Americans and micronutrient adequacy. *Current Developments in Nutrition*. [doi: 10.1016/j.cdnut.2025.107576](https://doi.org/10.1016/j.cdnut.2025.107576)
 
