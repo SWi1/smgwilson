@@ -41,7 +41,7 @@ Principal Investigator: Dr. Mary P. Miles
 
 ### Publications
 #### Journal Articles
-1.  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** (2026). From Diet to Molecules: Application of Large Language Models for Mapping Dietary Data to Food Databases. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2026.101678](https://doi.org/10.1016/j.tjnut.2026.101678)
+1.  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** (2026). Evaluation of Large Language Models for Mapping Dietary Data to Food Databases. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2026.101678](https://doi.org/10.1016/j.tjnut.2026.101678)
 
 2. **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. (2026) Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. *Food & Function*. [doi: 10.1039/D6FO00158K](https://doi.org/10.1039/D6FO00158K)
 
@@ -149,7 +149,7 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 ### Leadership and Service
 #### Reviewer
 -   July 2025 - Present: Board of Editors Member, *Journal of the Academy of Nutrition and Dietetics*
--   Nov 2024 - **Present**: Reviewer Board Member, *Applied Physiology, Nutrition, and Metabolism*
+-   Nov 2024 - Present: Reviewer Board Member, *Applied Physiology, Nutrition, and Metabolism*
 -   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*, *Journal of Health Psychology*
 
 #### National
