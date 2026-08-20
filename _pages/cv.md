@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Research Interests**\
-Chronic Disease Prevention, Dietary Bioactives, Gut Microbiome
+Chronic Disease Prevention, Dietary Bioactives, Gut Microbiome, Dietary Assessment
 
 ### Education
 
@@ -22,54 +22,55 @@ Indiana University, Bloomington, IN
 
 ### Employment
 
-**Assistant Professor, August 2026 (Expected Start)**\
+**Assistant Professor, August 2026 - *Current***\
 The Ohio State University, Human Nutrition Program, Columbus, OH
 
-**Postdoctoral Fellow, June 2025 - Present**\
+**Postdoctoral Fellow, June 2025 - July 2026**\
 University of California, Davis (UCD), Davis, CA\
 USDA-ARS Western Human Nutrition Research Center (WHNRC), Davis, CA\
-Principal Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC
+PI: Dr. Danielle G. Lemay, USDA-ARS WHNRC
 
 **Postdoctoral Fellow, August 2022 - May 2025**\
 Texas A&M Institute for Advancing Health Through Agriculture, College Station, TX\
 USDA-ARS WHNRC, Davis, CA\
-Principal Investigator: Dr. Danielle G. Lemay, USDA-ARS WHNRC
+PI: Dr. Danielle G. Lemay, USDA-ARS WHNRC
 
 **Graduate Researcher and Project Manager, 2016 - 2022**\
 Montana State University, Bozeman, MT\
-Principal Investigator: Dr. Mary P. Miles
+PI: Dr. Mary P. Miles
 
 ### Publications
 #### Journal Articles
-1.  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** (2026). Evaluation of Large Language Models for Mapping Dietary Data to Food Databases. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2026.101678](https://doi.org/10.1016/j.tjnut.2026.101678)
+1. Hilliard, M.A., Oliver, A., **Wilson, S.M.G.**, Shahab-Ferdows, S., Hampel, D., Bennett, B.J., Allen, L.H., Lemay, D.G. (2026). High dietary B12 is associated with reduced gut microbial B12 biosynthesis capacity and lower fecal short-chain fatty acids in healthy United States adults. *Gut Microbes*. [doi: 10.1080/19490976.2026.2718567](https://doi.org/10.1080/19490976.2026.2718567)
 
-2. **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. (2026) Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. *Food & Function*. [doi: 10.1039/D6FO00158K](https://doi.org/10.1039/D6FO00158K)
+2.  Lemay, D.G., Strohmeier, M.P., Stoker, R.B., Larke, J.A. **Wilson, S.M.G.** (2026). Evaluation of Large Language Models for Mapping Dietary Data to Food Databases. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2026.101678](https://doi.org/10.1016/j.tjnut.2026.101678)
 
-3. Gersten, Z.P., **Wilson, S.M.G.**, Larke, J.A., Lemay, D.G., Caswell, B.L. (2025). A pilot study of the Nutrient Composition Diversity Index in a sample of healthy US adults shows positive associations with adherence to the Dietary Guidelines for Americans and micronutrient adequacy. *Current Developments in Nutrition*. [doi: 10.1016/j.cdnut.2025.107576](https://doi.org/10.1016/j.cdnut.2025.107576)
+3. **Wilson, S.M.G.**, Oliver, A. Alkan, Z., Patil, B.S., Kable, M.E., Lemay, D.G. (2026) Association Between Dietary Polyphenol Intake and Polyphenol-Utilizing Bacteria in Healthy Adults. *Food & Function*. [doi: 10.1039/D6FO00158K](https://doi.org/10.1039/D6FO00158K)
 
-4.  Chamberlin, M.L., Peach, J.T., **Wilson, S.M.G.**, Miller, Z.T., Bothner, B., Walk, S.T., Yeoman, C.J., Miles, M.P. (2024). Polyphenol-rich Aronia melanocarpa fruit beneficially impact cholesterol, glucose, and serum and gut metabolites: a randomized clinical trial. *Foods*. [doi:10.3390/foods13172768](https://doi.org/10.3390/foods13172768)
+4. Gersten, Z.P., **Wilson, S.M.G.**, Larke, J.A., Lemay, D.G., Caswell, B.L. (2025). A pilot study of the Nutrient Composition Diversity Index in a sample of healthy US adults shows positive associations with adherence to the Dietary Guidelines for Americans and micronutrient adequacy. *Current Developments in Nutrition*. [doi: 10.1016/j.cdnut.2025.107576](https://doi.org/10.1016/j.cdnut.2025.107576)
 
-5.   **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. (2024). Fine-scale Dietary Polyphenol Intake is Associated with Systemic and Gastrointestinal Inflammation in Healthy Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.08.010](https://doi.org/10.1016/j.tjnut.2024.08.010)
+5.  Chamberlin, M.L., Peach, J.T., **Wilson, S.M.G.**, Miller, Z.T., Bothner, B., Walk, S.T., Yeoman, C.J., Miles, M.P. (2024). Polyphenol-rich Aronia melanocarpa fruit beneficially impact cholesterol, glucose, and serum and gut metabolites: a randomized clinical trial. *Foods*. [doi:10.3390/foods13172768](https://doi.org/10.3390/foods13172768)
 
-6.   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2024). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.02.030](https://doi.org/10.1016/j.tjnut.2024.02.030)
+6.   **Wilson, S.M.G.**, Oliver, A., Larke, J.A., Naveja J.J., Alkan Z., Awika J.M., Stephensen C.B., Lemay D.G. (2024). Fine-scale Dietary Polyphenol Intake is Associated with Systemic and Gastrointestinal Inflammation in Healthy Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.08.010](https://doi.org/10.1016/j.tjnut.2024.08.010)
 
-7.   Chamberlin, M.L., **Wilson, S.M.G.**, Gaston, M.E., Kuo, W., Miles, M.P. (2024). Twelve Weeks of Daily Lentil Consumption Improves Fasting Cholesterol and Postprandial Glucose and Inflammatory Responses - A Randomized Clinical Trial. *Nutrients*. [doi: 10.3390/nu16030419](https://doi.org/10.3390/nu16030419)
+7.   Bouzid, Y.Y., **Wilson, S.M.G.**, Alkan, Z., Stephensen, C.B., Lemay, D.G. (2024). Lower Diet Quality Associated with Subclinical Gastrointestinal Inflammation in Healthy U.S. Adults. *The Journal of Nutrition*. [doi: 10.1016/j.tjnut.2024.02.030](https://doi.org/10.1016/j.tjnut.2024.02.030)
 
-8.   **Wilson, S.M.G.**&dagger;, Peach, J.T.&dagger;, Fausset, H., Miller, Z.T, Walk, S.T., Yeoman, C.J., Bothner, B., Miles, M.P. (2023). Metabolic Impact of Polyphenol-rich Aronia Fruit Juice Mediated by Inflammation Status of Gut Microbiome Donors in Humanized Mouse Model. *Frontiers in Nutrition*. [doi:  10.3389/fnut.2023.1244692](https://doi.org/10.3389/fnut.2023.1244692) &dagger;first authorship shared
+8.   Chamberlin, M.L., **Wilson, S.M.G.**, Gaston, M.E., Kuo, W., Miles, M.P. (2024). Twelve Weeks of Daily Lentil Consumption Improves Fasting Cholesterol and Postprandial Glucose and Inflammatory Responses - A Randomized Clinical Trial. *Nutrients*. [doi: 10.3390/nu16030419](https://doi.org/10.3390/nu16030419)
+
+9.   **Wilson, S.M.G.**&dagger;, Peach, J.T.&dagger;, Fausset, H., Miller, Z.T, Walk, S.T., Yeoman, C.J., Bothner, B., Miles, M.P. (2023). Metabolic Impact of Polyphenol-rich Aronia Fruit Juice Mediated by Inflammation Status of Gut Microbiome Donors in Humanized Mouse Model. *Frontiers in Nutrition*. [doi:  10.3389/fnut.2023.1244692](https://doi.org/10.3389/fnut.2023.1244692) &dagger;first authorship shared
     
-9.   **Wilson, S.M.G.**, Peterson, E.J., Gaston, M.E., Kuo, W., and Miles, M.P. (2022). Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity - A Randomized Clinical Trial. *Nutrition Research*. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
+10.   **Wilson, S.M.G.**, Peterson, E.J., Gaston, M.E., Kuo, W., and Miles, M.P. (2022). Eight weeks of lentil consumption attenuates insulin resistance progression without increased gastrointestinal symptom severity - A Randomized Clinical Trial. *Nutrition Research*. [doi: 10.1016/j.nutres.2022.08.002](https://doi.org/10.1016/j.nutres.2022.08.002)
 
-10.   **Wilson, S.M.**, Maes, A.P., Walk, S.T., Yeoman, C.J., and Miles, M.P. (2021). Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. *Lipids in Health and Disease*. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
+11.   **Wilson, S.M.**, Maes, A.P., Walk, S.T., Yeoman, C.J., and Miles, M.P. (2021). Determinants of the postprandial triglyceride response to a high-fat meal in healthy overweight and obese adults. *Lipids in Health and Disease*. 20(1), 107. [doi: 10.1186/s12944-021-01543-4](https://lipidworld.biomedcentral.com/articles/10.1186/s12944-021-01543-4)
 
-11.   Peach, J.T., **Wilson, S.M.**, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. (2021). Temporal metabolic response yields a dynamic biosignature of inflammation. *iScience*. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859)
+12.   Peach, J.T., **Wilson, S.M.**, Gunderson L.D., Frothingham, L., , Tran, T., Walk, S.T., Yeoman, C.J., Bothner, B., and Miles, M.P. (2021). Temporal metabolic response yields a dynamic biosignature of inflammation. *iScience*. [doi: 10.1016/j.isci.2021.102817](https://linkinghub.elsevier.com/retrieve/pii/S2589004221007859)
 
-12.   Miles, M.P, **Wilson, S**, and Yeoman, C.J. (2019). Physical Activity and Inflammation Phenotype Conversion. *Journal of Clinical Exercise Physiology*: June 2019. [doi: 10.31189/2165-6193-8.2.64](https://meridian.allenpress.com/jcep/article/8/2/64/433899/Physical-Activity-and-Inflammation-Phenotype)
+13.   Miles, M.P, **Wilson, S**, and Yeoman, C.J. (2019). Physical Activity and Inflammation Phenotype Conversion. *Journal of Clinical Exercise Physiology*: June 2019. [doi: 10.31189/2165-6193-8.2.64](https://meridian.allenpress.com/jcep/article/8/2/64/433899/Physical-Activity-and-Inflammation-Phenotype)
 
 #### Preprints and Submitted Journal Articles
 
 - Spears, M.L., Chamberlin, M.L, Cooper, G., Sather, B., **Wilson, S.M.G.**, Bothner, B., Miles, M.P. Metabolic Syndrome Distinguished by Fecal Metabolites: A Cross-Sectional Study. (*In Review*)
-- Bouzid, Y.Y., Oliver, A., Blecksmith, S., **Wilson, S.M.G.**, Alkan, Z., Huang, L., Bennett, B., Kable, M.E., Stephensen, C.B., Lemay, D.G. Association between Fiber Intake and Gastrointestinal Inflammation is Dependent on FUT2 Secretor Status in Healthy Adults. (*In Review*)
-- Hilliard, M.A., Oliver, A., **Wilson, S.M.G.**, Shahab-Ferdows, S., Hampel, D., Bennett, B.J., Allen, L.H., Lemay, D.G. Excess dietary vitamin B12 linked to lower fecal short-chain fatty acids and changes in gut microbial function in healthy United States adults. (*In Review*)
+- Bouzid, Y.Y., Oliver, A., Blecksmith, S., **Wilson, S.M.G.**, Alkan, Z., Huang, L., Bennett, B., Kable, M.E., Stephensen, C.B., Lemay, D.G. Association between Fiber Intake and Gastrointestinal Inflammation is Dependent on FUT2 Secretor Status in Healthy Adults. (*In Revision*)
 - **Wilson, S.M.G.**, Oliver, A., Lemay, D.G. Polyphenol Estimator: A New Tool To Estimate Dietary Polyphenol Intake from ASA24 and NHANES Dietary Data. *medRxiv*. [doi: 10.64898/2026.05.27.26353727](https://doi.org/10.64898/2026.05.27.26353727).
 
 #### Other Publications
@@ -104,7 +105,7 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 #### Invited Talks
 
--   **Wilson, S.M.G.** Looking Beyond Composition: The Gut Microbiome's Capacity to Metabolize Dietary Polyphenols. Polyphenols Applications: 19th World Congress. Málaga, Spain. October 2026 (Scheduled).
+-   **Wilson, S.M.G.** Looking Beyond Composition: The Gut Microbiome's Capacity to Metabolize Dietary Polyphenols. Polyphenols Applications: 19th World Congress. Málaga, Spain. October 2026 (*Scheduled*).
 -   **Wilson, S.M.G.**, Chamberlin, M.L. Pulses as metabolic leverage: Insights into how eating lentils can improve health. Pulse Potential Webinar (Virtual). Northern Crops Institute. February 2026. 
 
 -   **Wilson, S.M.G.** Structuring Dietary and Gut Microbiome Data for Machine Learning: Applications in Nutrition. Nutrition Obesity Research Center. University of Washington. February 2026.
@@ -150,12 +151,12 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 #### Reviewer
 -   July 2025 - Present: Board of Editors Member, *Journal of the Academy of Nutrition and Dietetics*
 -   Nov 2024 - Present: Reviewer Board Member, *Applied Physiology, Nutrition, and Metabolism*
--   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*, *Journal of Health Psychology*
+-   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*, *Nutrition and Diabetes*,  *Journal of Health Psychology*
 
 #### National
 -   2025 - Present: Program Committee Member, National Nutrient Databank Conference
 -   2025 - 2026: Abstract Reviewer, American Society for Nutrition, NUTRITION
--   2023 - Present: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
+-   2023 - 2026: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
 
 #### Institutional
 -   2026: Mentor, Cross Cultural Center Graduate & Professional Mentoring Program, UC Davis
