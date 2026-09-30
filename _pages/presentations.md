@@ -13,6 +13,7 @@ hide_title: true
 
 ### Invited Talks
 
+-   **Wilson, S.M.G.** Looking Beyond Composition: The Gut Microbiome's Capacity to Metabolize Dietary Polyphenols. Polyphenols Applications: 19th World Congress. Málaga, Spain. October 2026.
 -   **Wilson, S.M.G.**, Chamberlin, M.L. Pulses as metabolic leverage: Insights into how eating lentils can improve health. Pulse Potential Webinar (Virtual). Northern Crops Institute. February 2026. 
 -   **Wilson, S.M.G.** Structuring Dietary and Gut Microbiome Data for Machine Learning: Applications in Nutrition. Nutrition Obesity Research Center. University of Washington. February 2026.
 -   **Wilson, S.M.G.** From Mechanisms to Outcomes: How Prebiotics and Probiotics Can Support Health. Cardiovascular and Well-Being Dietetic Practice Group Symposium (Virtual). Academy of Nutrition and Dietetics. February 2026.

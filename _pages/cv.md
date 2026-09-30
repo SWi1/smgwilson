@@ -72,6 +72,7 @@ PI: Dr. Mary P. Miles
 - Spears, M.L., Chamberlin, M.L, Cooper, G., Sather, B., **Wilson, S.M.G.**, Bothner, B., Miles, M.P. Metabolic Syndrome Distinguished by Fecal Metabolites: A Cross-Sectional Study. (*In Review*)
 - Bouzid, Y.Y., Oliver, A., Blecksmith, S., **Wilson, S.M.G.**, Alkan, Z., Huang, L., Bennett, B., Kable, M.E., Stephensen, C.B., Lemay, D.G. Association between Fiber Intake and Gastrointestinal Inflammation is Dependent on FUT2 Secretor Status in Healthy Adults. (*In Revision*)
 - **Wilson, S.M.G.**, Oliver, A., Lemay, D.G. Polyphenol Estimator: A New Tool To Estimate Dietary Polyphenol Intake from ASA24 and NHANES Dietary Data. *medRxiv*. [doi: 10.64898/2026.05.27.26353727](https://doi.org/10.64898/2026.05.27.26353727).
+- Hicks-Roof, K.K., **Wilson, S.M.G.** The FLAVOR Framework: Integrating Sensory Science Across the Human Nutrition Research Continuum. (*Submitted*)
 
 #### Other Publications
 
@@ -105,7 +106,8 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 #### Invited Talks
 
--   **Wilson, S.M.G.** Looking Beyond Composition: The Gut Microbiome's Capacity to Metabolize Dietary Polyphenols. Polyphenols Applications: 19th World Congress. Málaga, Spain. October 2026 (*Scheduled*).
+-   **Wilson, S.M.G.** Looking Beyond Composition: The Gut Microbiome's Capacity to Metabolize Dietary Polyphenols. Polyphenols Applications: 19th World Congress. Málaga, Spain. October 2026.
+
 -   **Wilson, S.M.G.**, Chamberlin, M.L. Pulses as metabolic leverage: Insights into how eating lentils can improve health. Pulse Potential Webinar (Virtual). Northern Crops Institute. February 2026. 
 
 -   **Wilson, S.M.G.** Structuring Dietary and Gut Microbiome Data for Machine Learning: Applications in Nutrition. Nutrition Obesity Research Center. University of Washington. February 2026.
@@ -140,7 +142,7 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 
 \*Mentee [National Conference on Undergraduate Research](https://www.cur.org/) presentation titles listed [here](https://swi1.github.io/smgwilson/presentations/).
 
--   2026: Athena Aragon (PhD), Esmeralda Reyes (PhD)
+-   2026: Blake Geraltowski (PhD), Athena Aragon (PhD), Esmeralda Reyes (PhD)
 -   2021 - 2022: Morgan Chamberlin (PhD), Emily Peterson (MS), Katie Logan (BS), Katy Kropatsch (BS)\*, Amanda Anderson (BS)\*, Jessica Kudelski (BS)\*, Jayme Dyc (BS)\*, Mackenzie Winters (BS)\*
 -   2020 - 2021: Hunter Baum (MS), Kaitlyn Weinheimer (BS)\*, Anna Kristenson (BS), Claire Turner (BS), Rachel Nyquist (BS), Sofia Whitefields (BS)\*
 -   2019 - 2020: Ian Breuner (BS)\*, Kirsten Pfannmuller (BS)\*, Gia Sorini (BS)\*, Bailey Veitenheimer (BS)\*
@@ -154,6 +156,7 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 -   Ad hoc: *Journal of Nutrition*, *Current Developments in Nutrition*, *Food & Function*, *Nutrition and Diabetes*,  *Journal of Health Psychology*
 
 #### National
+-   2026 - Present: At-large Delegate, Nutritional Microbiology GEM, American Society for Nutrition
 -   2025 - Present: Program Committee Member, National Nutrient Databank Conference
 -   2025 - 2026: Abstract Reviewer, American Society for Nutrition, NUTRITION
 -   2023 - 2026: Postdoctoral Representative, Dietary Bioactive Components GEM, American Society for Nutrition
@@ -168,5 +171,5 @@ Full list of presentations [here](https://swi1.github.io/smgwilson/presentations
 ### Professional Memberships
 
 -   2025 - Present: American Society for Microbiology, Postdoctoral Member
--   2022 - Present: American Society for Nutrition, Early Career I Member
--   2016 - 2022: American College of Sports Medicine, Member
+-   2022 - Present: American Society for Nutrition, Early Career Member
+-   2016 - 2022: American College of Sports Medicine, Student Member
